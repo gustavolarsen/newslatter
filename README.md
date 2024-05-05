@@ -7,5 +7,3 @@ Projeto em HTML e CSS criado para o #boracodar desafio 40.
 
 ## Interface do projeto mobile
 ![image](https://github.com/gustavolarsen/newsletter-workstation-inspiration/assets/55494775/ea5ce741-d9ca-49fd-84ac-08abeb33a313)
-
-... em desenvolvimento
